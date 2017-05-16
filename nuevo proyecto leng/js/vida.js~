@@ -1,0 +1,7 @@
+
+celda= document.getElementByTagName("td");
+
+for(i=0;i<celda.lenght;i++){
+celda[i].style.backgroundcolor="#900";
+}
+}
